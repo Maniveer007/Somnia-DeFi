@@ -89,7 +89,7 @@ This ensures **capital efficiency, full user control, and flexible participation
 
 ## 📽 Demo Video
 
-▶️ [Watch the FLEXILOAN working demo](https://youtu.be/)
+▶️ [Watch the FLEXILOAN working demo](https://www.loom.com/share/657042175f7f44b4a9f93ac1ba7c2c49?sid=4d8ce5c3-a9e5-4888-90a2-0b46fe017672)
 
 ---
 
@@ -97,5 +97,5 @@ This ensures **capital efficiency, full user control, and flexible participation
 
 * Flashloan receivers must be **smart contracts**.
 * UI does not simulate borrower logic.
-* For integration details and sample receiver contracts → see [Docs Page]().
+* For integration details and sample receiver contracts → see [Docs Page](https://somnia-defi.vercel.app/docs).
 
