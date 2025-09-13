@@ -1,5 +1,4 @@
 
-
 # FLEXILOAN Protocol
 
 **Non-Locking Liquidity Provision for DeFi**
@@ -79,9 +78,18 @@ This ensures **capital efficiency, full user control, and flexible participation
 
 ---
 
+## 📍 Deployment on Somnia
+
+* **WSTT Token**: [`0xF22eF0085f6511f70b01a68F360dCc56261F768a`](https://shannon-explorer.somnia.network/address/0xF22eF0085f6511f70b01a68F360dCc56261F768a)
+* **FLEXILOAN WSTT Pool**: [`0xe83168C582d043D0938CF611FbB4d012225eDC76`](https://shannon-explorer.somnia.network/address/0xe83168C582d043D0938CF611FbB4d012225eDC76)
+
+*(Links point to Somnia block explorer — replace with correct explorer URL if available)*
+
+---
+
 ## 📽 Demo Video
 
-▶️ [Watch the FLEXILOAN working demo](https://youtu.be/QvWhS5YojyE)
+▶️ [Watch the FLEXILOAN working demo](https://youtu.be/)
 
 ---
 
@@ -90,3 +98,4 @@ This ensures **capital efficiency, full user control, and flexible participation
 * Flashloan receivers must be **smart contracts**.
 * UI does not simulate borrower logic.
 * For integration details and sample receiver contracts → see [Docs Page]().
+
