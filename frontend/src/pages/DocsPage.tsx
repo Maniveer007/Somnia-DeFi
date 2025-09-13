@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import { Terminal, Code2, Zap, Copy, CheckCircle } from "lucide-react";
 
 function DocsPage() {
-  const [selectedChain, setSelectedChain] = useState<"CORE">(
-    "CORE"
+  const [selectedChain, setSelectedChain] = useState<"Somnia">(
+    "Somnia"
   );
 
   const [copiedAddresses, setCopiedAddresses] = useState<{
@@ -11,10 +11,10 @@ function DocsPage() {
   }>({});
 
   const poolAddresses: {
-    [key in "CORE"]: { LSTBTC: string };
+    [key in "Somnia"]: { WSTT: string };
   } = {
-    CORE:{
-     LSTBTC:"0x3f52E4c6393c81ECE389adb3Eb614395f593C834"
+    Somnia:{
+     WSTT:"0xe83168C582d043D0938CF611FbB4d012225eDC76"
     }
   };
 
@@ -205,11 +205,10 @@ function DocsPage() {
                 className="bg-black text-green-500 p-2 rounded border border-green-500"
                 value={selectedChain}
                 onChange={(e) =>
-                  setSelectedChain(e.target.value as "CORE")
+                  setSelectedChain(e.target.value as "Somnia")
                 }
               >
-                <option value="BASE">CORE</option>
-                
+                <option value="WSTT">WSTT</option>
               </select>
             </div>
 
