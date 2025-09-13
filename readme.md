@@ -83,7 +83,6 @@ This ensures **capital efficiency, full user control, and flexible participation
 * **WSTT Token**: [`0xF22eF0085f6511f70b01a68F360dCc56261F768a`](https://shannon-explorer.somnia.network/address/0xF22eF0085f6511f70b01a68F360dCc56261F768a)
 * **FLEXILOAN WSTT Pool**: [`0xe83168C582d043D0938CF611FbB4d012225eDC76`](https://shannon-explorer.somnia.network/address/0xe83168C582d043D0938CF611FbB4d012225eDC76)
 
-*(Links point to Somnia block explorer — replace with correct explorer URL if available)*
 
 ---
 
