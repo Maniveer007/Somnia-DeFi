@@ -208,7 +208,7 @@ function DocsPage() {
                   setSelectedChain(e.target.value as "Somnia")
                 }
               >
-                <option value="WSTT">WSTT</option>
+                <option value="WSTT">Somnia</option>
               </select>
             </div>
 
